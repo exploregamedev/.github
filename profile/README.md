@@ -12,4 +12,6 @@ I invite you yo join my [newsletter](https://exploregame.dev/) so you can stay u
 
 - [Blog](https://exploregame.dev/)
 - [Youtube tutorials](https://www.youtube.com/@ExploreGameDev)
+- [Mastodon](https://mastodon.gamedev.place/@exploregamedev)
+- [Twitter](https://twitter.com/exploregamedev)
 - [LinkedIn](https://www.linkedin.com/in/samkeen/)
